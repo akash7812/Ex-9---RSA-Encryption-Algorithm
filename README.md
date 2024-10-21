@@ -1,4 +1,4 @@
-## EX.9 SIMULATION OF RSA ALGORITHM
+# EX.9 SIMULATION OF RSA ALGORITHM
 ## AIM:
 To implement encryption and decryption using RSA algorithm.
 
